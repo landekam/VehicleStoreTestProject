@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Project.Service.Model;
+using Project.Service.Model.Interface;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,8 +7,8 @@ using System.Text;
 namespace Project.Service
 {
     public class DatabaseContext : DbContext
-    {
-        public DbSet<VehicleMake> vehicleMakes { get; set; }
-        public DbSet<VehicleModel> vehicleModels { get; set; }
+    {        
+        public DbSet<IVehicleMake> VehicleMakes { get; set; }
+        public DbSet<IVehicleModel> VehicleModels { get; set; }
     }
 }
