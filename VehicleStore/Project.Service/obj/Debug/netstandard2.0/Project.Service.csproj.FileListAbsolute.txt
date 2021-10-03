@@ -1,0 +1,6 @@
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\bin\Debug\netstandard2.0\Project.Service.deps.json
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\bin\Debug\netstandard2.0\Project.Service.dll
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\obj\Debug\netstandard2.0\Project.Service.csprojAssemblyReference.cache
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\obj\Debug\netstandard2.0\Project.Service.csproj.CoreCompileInputs.cache
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\obj\Debug\netstandard2.0\Project.Service.AssemblyInfoInputs.cache
+D:\Projekti\Mono\VehicleStoreTestProject\VehicleStore\Project.Service\obj\Debug\netstandard2.0\Project.Service.AssemblyInfo.cs
