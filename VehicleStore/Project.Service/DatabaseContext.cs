@@ -7,8 +7,8 @@ using System.Text;
 namespace Project.Service
 {
     public class DatabaseContext : DbContext
-    {
-        public DbSet<VehicleMake> vehicleMakes { get; set; }
-        public DbSet<VehicleModel> vehicleModels { get; set; }
+    {        
+        public DbSet<VehicleMake> VehicleMakes { get; set; }
+        public DbSet<VehicleModel> VehicleModels { get; set; }
     }
 }
